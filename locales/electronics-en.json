@@ -7,14 +7,14 @@
 		"restricted by GSA ADP Schedule Contract with IBM Corp."
 	],
 	"main_page": {
-		"page_title": "IoT for Electronics",
-		"top_title": "IoT for Electronics Starter Experience",
+		"page_title": "IoT for Electronics - DEMO",
+		"top_title": "IoT for Electronics Starter Experience - DEMO",
 		"sections_preheading": "Experience IoT for Electronics from the perspective of both the manufacturer and the consumer",
 		"sections_headingx": "Select what you want to do:",
 		"sections_heading": "Connect and manage simulated appliances",
 		"simulate_appliance_titlex": "1. Manage Simulated Appliances",
 		"simulate_appliance_title": "1. Connect and manage simulated appliances",
-		"simulate_appliance_textx": "Send commands, generate events, and view results in real time with simulated appliances.",
+		"simulate_appliance_textx": "Send commands, generate events, and view results in real time with simulated appliances.",
 		"simulate_appliance_text": "Send commands, generate events, and view the results in real time.",
 		"consumer_app_titlex": "2. Explore the Consumer Experience",
 		"consumer_app_textx": "See how an appliance owner benefits from connected services.",
