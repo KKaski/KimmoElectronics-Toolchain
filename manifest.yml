@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: KimmoElectronics
+  host: KimmoElectronics
+  disk_quota: 1024M
+  services:
+  - KimmoElectronics-ibm-iot-for-electronics
+  - KimmoElectronics-iotf-service
+  - KimmoElectronics-AdvancedMobileAccess
